@@ -2799,9 +2799,6 @@ a.button.menu:after, .button.menu:after {
 		margin-bottom: 220px;
 	}
 
-	.text-intro{
-		display: none;
-	}
 
 	.top-carou .owl-wrapper-outer{
 		height: 350px !important;
@@ -3005,9 +3002,7 @@ a.button.contact, .button.contact {
 	.top-carou .owl-wrapper-outer{
 		height: 350px !important;
 	}
-	.text-intro{
-		display: none;
-	}
+	
 	#header .menu-item a {
 		color: #fff;
 	}
